@@ -1,14 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm M. Zigmond 👋</h1>
 
-**m-zigmond/m-zigmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm working on breaking into data analytics. Below are a couple of portfolio projects I've built — each one lives in its own repo with a full write-up, not just code.</p>
 
-Here are some ideas to get you started:
+<h2>Projects</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3><a href="https://github.com/m-zigmond/superstore-analysis">Superstore Sales Analysis</a></h3>
+<p>SQL (MySQL) + Tableau. Cleaned and queried retail sales data, then built a dashboard in Tableau Public to dig into what's actually driving performance across regions and product categories.</p>
+<p><em>Tools: MySQL, Tableau Public</em></p>
+
+<h3><a href="https://github.com/m-zigmond/IBM-HR-Employee-Attrition-Analysis">HR Attrition Analysis</a></h3>
+<p>Excel only — pivot tables, XLOOKUP, nested IF formulas, conditional formatting, and an interactive dashboard with slicers. Used IBM's HR dataset to figure out why employees were leaving. Overtime turned out to be the biggest driver by far, and a pay gap that looked significant at first turned out to actually be a seniority effect once I controlled for job level.</p>
+<p><em>Tools: Excel</em></p>
+
+<h2>What I'm looking for</h2>
+<p>Entry-level data analyst roles. Open to SQL, Excel, or Tableau-heavy work — happy to talk through either project in more depth.</p>
