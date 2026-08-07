@@ -1,6 +1,6 @@
-<h1>Hi, I'm M. Zigmond 👋</h1>
+<h1>Hi, I'm Matt Zigmond 👋</h1>
 
-<p>I'm working on breaking into data analytics. Below are a couple of portfolio projects I've built — each one lives in its own repo with a full write-up, not just code.</p>
+<p>I'm working on breaking into data analytics. Below are a couple of portfolio projects I've built — each one lives in its own repo with a full write-up.</p>
 
 <h2>Projects</h2>
 
