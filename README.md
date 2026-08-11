@@ -4,7 +4,7 @@
 <h2>Projects</h2>
 
 <h3><a href="https://github.com/m-zigmond/sql-data-clean">SQL Data Cleaning Project</a></h3>
-<p>MySQL only. Took a deliberately messy two-table dataset (customers + orders) and worked through profiling, standardizing, and validating it end to end — mixed date formats, inconsistent casing, duplicate rows, and a broken foreign key relationship. The interesting part was some of what looked like bad source data turned out to actually be caused by MySQL Workbench's import wizard silently dropping rows it couldn't auto-type — traced it down, quantified how much of the "orphan" data was a real data issue vs. an import artifact, and documented the split instead of reporting one misleading number.</p>
+<p>MySQL only. Took a deliberately messy two-table dataset (customers + orders) and worked through profiling, standardizing, and validating it. Fixed mixed date formats, inconsistent casing, duplicate rows, and a broken foreign key relationship.</p>
 <p><em>Tools: MySQL Workbench</em></p>
 
 <h3><a href="https://github.com/m-zigmond/superstore-analysis">Superstore Sales Analysis</a></h3>
