@@ -17,3 +17,6 @@
 
 <h2>What I'm looking for</h2>
 <p>Entry-level data analyst roles. Open to SQL, Excel, or Tableau-heavy work — happy to talk through either project in more depth.</p>
+
+<h2> Contacts </h2>
+<p> LinkedIn: <a href = https://www.linkedin.com/in/matt-zigmond-2026xu/></a> </p>
