@@ -1,8 +1,8 @@
 <h1>Hi, I'm Matt Zigmond 👋</h1>
 <p>I'm working on breaking into data analytics. Below are a couple of portfolio projects I've built — each one lives in its own repo with a full write-up.</p>
 <h2>Projects</h2>
-<h3><a href="https://github.com/m-zigmond/Ecom-analysis">E-Commerce Sales and Customer Analytics</a></h3>
-<p>SQL (MySQL) + Python. Generated a synthetic two-table e-commerce dataset (1,000 customers, 5,000 orders) with realistic seasonality and repeat customers, then wrote SQL to answer five questions a product manager would actually ask, covering revenue by category, customer value versus loyalty tier, discount effectiveness, shipping and payment friction, and 90-day retention by acquisition channel. Used AI throughout the process for building the dataset and drafting queries, and caught a real data loading bug along the way that would've thrown off the results if I hadn't checked for it.</p>
+<h3><a href="https://github.com/m-zigmond/AI-Ecommerce">E-Commerce Sales and Customer Analytics</a></h3>
+<p>SQL (MySQL) + Python. Wrote SQL to answer five questions a product manager would actually ask, covering revenue by category, customer value versus loyalty tier, discount effectiveness, shipping and payment friction, and 90-day retention by acquisition channel. Used AI throughout the process for building the dataset, drafting queries, and dealing with bugs.</p>
 <p><em>Tools: MySQL Workbench, Python, Claude</em></p>
 <h3><a href="https://github.com/m-zigmond/sql-data-clean">SQL Data Cleaning Project</a></h3>
 <p>MySQL only. Took a deliberately messy two-table dataset (customers + orders) and worked through profiling, standardizing, and validating it. Fixed mixed date formats, inconsistent casing, duplicate rows, and a broken foreign key relationship.</p>
