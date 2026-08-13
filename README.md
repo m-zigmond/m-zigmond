@@ -8,7 +8,7 @@
 <p>MySQL only. Took a deliberately messy two-table dataset (customers + orders) and worked through profiling, standardizing, and validating it. Fixed mixed date formats, inconsistent casing, duplicate rows, and a broken foreign key relationship.</p>
 <p><em>Tools: MySQL Workbench</em></p>
 <h3><a href="https://github.com/m-zigmond/superstore-analysis">Superstore Sales Analysis</a></h3>
-<p>SQL (MySQL) + Tableau. Cleaned and queried retail sales data, then built a dashboard in Tableau Public to dig into what's actually driving performance across regions and product categories.</p>
+<p> MySQL + Tableau. Cleaned and queried retail sales data, then built a dashboard in Tableau Public to dig into what's actually driving performance across regions and product categories.</p>
 <p><em>Tools: MySQL, Tableau Public</em></p>
 <h3><a href="https://github.com/m-zigmond/IBM-HR-Employee-Attrition-Analysis">HR Attrition Analysis</a></h3>
 <p>Excel only — pivot tables, XLOOKUP, nested IF formulas, conditional formatting, and an interactive dashboard with slicers. Used IBM's HR dataset to figure out why employees were leaving. Overtime turned out to be the biggest driver by far, and a pay gap that looked significant at first turned out to actually be a seniority effect once I controlled for job level.</p>
