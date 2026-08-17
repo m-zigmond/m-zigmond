@@ -13,6 +13,9 @@
 <h3><a href="https://github.com/m-zigmond/IBM-HR-Employee-Attrition-Analysis">HR Attrition Analysis</a></h3>
 <p>Excel only — pivot tables, XLOOKUP, nested IF formulas, conditional formatting, and an interactive dashboard with slicers. Used IBM's HR dataset to figure out why employees were leaving. Overtime turned out to be the biggest driver by far, and a pay gap that looked significant at first turned out to actually be a seniority effect once I controlled for job level.</p>
 <p><em>Tools: Excel</em></p>
+<h3><a href="https://github.com/m-zigmond/applied-data-analysis-coursework">Applied Data Analysis Coursework</a></h3>
+<p>A selection of projects from a semester-long applied data analysis course. I decoded and visualized a large death records dataset, comparing regional U.S. housing market trends with Zillow data, and building interactive geospatial maps with folium and geopandas from Indiana state parks to a U.S. housing inventory choropleth.</p>
+<p><em>Tools: Pandas, numpy, geopandas, folium, matplotlib, seaborn</em></p>
 <h2>What I'm looking for</h2>
 <p>Entry-level data analyst roles. Open to SQL, Excel, or Tableau-heavy work — happy to talk through any of these projects in more depth.</p>
 <h2>Contacts</h2>
