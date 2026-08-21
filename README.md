@@ -16,6 +16,9 @@
 <h3><a href="https://github.com/m-zigmond/applied-data-analysis-coursework">Applied Data Analysis Coursework</a></h3>
 <p>A selection of projects from a semester-long applied data analysis course. I decoded and visualized a large death records dataset, comparing regional U.S. housing market trends with Zillow data, and building interactive geospatial maps with folium and geopandas from Indiana state parks to a U.S. housing inventory choropleth.</p>
 <p><em>Tools: Pandas, numpy, geopandas, folium, matplotlib, seaborn</em></p>
+<h3><a href="https://github.com/m-zigmond/PGA_prediction_model">BMW Championship Prediction Model</a></h3>
+<p> R (dplyr, caret, xgboost, ggplot2). Built a machine learning model to predict PGA Tour outcomes, centered on a custom "course-fit" stat measuring whether a player's game actually suits a specific course. Along the way, found and fixed a silent duplicate-row bug in the source data, and discovered that my original target (predicting made-cut) was structurally meaningless for the actual tournament I was predicting, since the BMW Championship has no 36-hole cut. Pivoted to predicting top-10 finishes instead, backtested it against 7 real past BMW Championships (0.70 average AUC), and scored the real 2026 field with both XGBoost and logistic regression — which quietly beat XGBoost twice over the course of the project.
+Tools: R, XGBoost, Claude</p>
 <h2>What I'm looking for</h2>
 <p>Entry-level data analyst roles. Open to SQL, Excel, or Tableau-heavy work — happy to talk through any of these projects in more depth.</p>
 <h2>Contacts</h2>
